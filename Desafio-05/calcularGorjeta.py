@@ -1,4 +1,4 @@
-print('Seja bem-vindo(a) a APP Gorgeta!')
+print('Seja bem-vindo(a) a APP Gorjeta!')
 
 account = float(input('Imforme o valor da conta: R$ '))
 
